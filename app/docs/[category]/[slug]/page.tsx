@@ -13,4 +13,5 @@ const DynamicSlugPage = async ({
   );
 };
 
+
 export default DynamicSlugPage;
